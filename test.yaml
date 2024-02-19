@@ -1,5 +1,5 @@
 name: GitHub Actions Datacom Forage
-run-name: bkim349 is testing out GitHub Actions 🚀
+run-name: bkim349 is testing out GitHub Actions 
 on: [push]
 jobs:
   bkim349-greetings:
